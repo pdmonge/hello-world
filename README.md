@@ -1,2 +1,4 @@
 # hello-world
-GitHub Noob. Following tutorial.
+
+Still a GitHub noob but now I've seen a little more.
+:)
